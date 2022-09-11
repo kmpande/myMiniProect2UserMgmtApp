@@ -1,5 +1,7 @@
 package com.UMA.repositories;
 
-public class CountryRepository {
+
+
+public interface CountryRepository  {
 
 }
